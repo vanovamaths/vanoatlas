@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://vanovamaths.github.io/vanoatlas/sitemap.xml
